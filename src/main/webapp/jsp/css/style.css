@@ -1,0 +1,133 @@
+body {
+    margin:5px;
+    background: #f5ecdb;
+}
+.navigator {
+    display: flex;
+    height: 70px;
+    background: #f5ecdb;
+    margin: 30px auto auto;
+}
+.buttons{
+    display: flex;
+    height: 70px;
+    margin: auto;
+}
+.item {
+    margin-left: 20px;
+    color: #505050;
+}
+.item:hover{
+    color: black;
+}
+.title-main{
+    text-align: center;
+}
+.navigator2{
+    background: aliceblue;
+}
+.first-body{
+    height: -webkit-fill-available;
+}
+
+.p2{
+    max-width: 400px;
+    text-align: center;
+    margin: auto;
+}
+.buttons2{
+    display: flex;
+}
+.h1{
+    display: flex;
+}
+.image{
+    margin-left: 20px;
+     display: flex;
+}
+.imageCh{
+    margin: 10px;
+    display: flex;
+   max-width: 300px;
+    max-height: 300px;
+}
+.customers{
+    display: flex;
+    margin: 15px;
+    border: #505050;
+    width: auto;
+    height: auto;
+}
+.customersTit{
+    margin-left: 500px;
+    color: black;
+    font-size: large;
+}
+.name{
+    margin: 15px;
+    color: indianred;
+    font-size: medium;
+    width: 7px;
+
+}
+.background{
+    background: blanchedalmond;
+    margin: 10px;
+}
+.pho{
+    float:right ;
+    float: top;
+}
+.span{
+    margin: 10px;
+    float: left;
+    color: black;
+}
+.text{
+    display: flex;
+    margin-top: 20px;
+}
+.main{
+    background: blanchedalmond;
+}
+.title-main2{
+    display: flex;
+    margin-left:25px;
+}
+.span1{
+    font-size: small;
+    margin-left:5px;
+}
+.span2{
+    display: flex;
+    font-size: larger;
+    margin-right: 20px;
+}
+.span3{
+    margin: initial;
+    font-size: small;
+}
+.background1{
+    background: blanchedalmond;
+    display: flex;
+    height: 50px;
+    width: auto;
+    margin: 30px auto auto;
+}
+.div_text{
+    margin-top: 80px;
+    float: right;
+}
+.firs1:hover{
+    color: #505050;
+
+}
+.firs2:hover{
+    color: #505050;
+
+}
+.h3:hover{
+color: #505050;
+    margin-left: 10px;
+}
+
